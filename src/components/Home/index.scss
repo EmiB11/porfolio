@@ -122,7 +122,8 @@
       width:70%;
      h1{
          font-size: 40px;
-
+         line-height: 50px;
+         font-family: Helvetica Neue;
      }
     }
 }
@@ -152,13 +153,15 @@
       top: 50%;
       width:50%;
      h1{
-         font-size: 30px;
+         font-size: 28px;
         width: 120%;
+        line-height: 35px;
+        font-family: Helvetica Neue;
      }
     }
 }
   .imagen-container{
-    top:-25px;
+    top:5px;
     width: 40%;
     height: 50%;
     left:60%;

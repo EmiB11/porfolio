@@ -120,7 +120,7 @@ Tecnología: React, Redux, HTML, CSS, Bootstrap, Node JS, Express, PostgreSQL, S
             <AnimatedLetters
               letterClass={letterClass}
               strArray={['V', 'i', 'd', 'e', 'o', 'g', 'a' ,'m' ,'e ',' ','W','e','b',' ','A','p','p']}
-              idx={15}
+              idx={18}
             />
           </h1>
           </div>

@@ -214,6 +214,9 @@
      
    }
   }
+  .tags{
+    display:none;
+   }
 }
 
 @media only screen and (max-width:450px){
@@ -223,7 +226,7 @@
       left: 25%;
       top: 50%;
       width:50%;
-     
+    
       display: table-cell;
       h1 {
         font-size: 25px;
@@ -236,7 +239,7 @@
   .container.about-page {
     .text-zone {
       position: absolute;
-      left: 25%;
+      left: 20%;
       top: 50%;
       width:70%;
       
@@ -244,5 +247,8 @@
         font-size: 13px;
       }
     }
+}
+.tags{
+ display:none;
 }
 }
