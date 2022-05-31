@@ -34,7 +34,7 @@ const About = () => {
             />
           </h1>
           <p>
-          Soy desarrollador fullstack con perfil frontend muy ambicioso en busca de un puesto en una
+          Soy desarrollador web fullstack muy ambicioso en busca de un puesto en una
             empresa IT que cuente con la oportunidad de trabajar con las últimas
             tecnologías en proyectos desafiantes y diversos.
           </p>

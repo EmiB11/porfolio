@@ -49,7 +49,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="www.linkedin.com/in/emiliano-barberis-developer"
+            href="https://www.linkedin.com/in/emiliano-barberis-developer/"
             target="_blank"
             rel="noreferrer"
           >

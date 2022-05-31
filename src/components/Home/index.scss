@@ -146,14 +146,14 @@
 @media only screen and (max-width:550px){
   .home-page {
     .text-zone {
-      width: 50%;
+     
       position: absolute;
       left: 25%;
       top: 50%;
-      width:70%;
+      width:50%;
      h1{
          font-size: 30px;
-        
+        width: 120%;
      }
     }
 }

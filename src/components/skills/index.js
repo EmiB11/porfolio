@@ -28,21 +28,24 @@ function Skills() {
             </h1>
           <p>
             Tengo conocimientos y experiencia en las siguientes tecnologías : {" "}
+            <br/>
             <span className="tech-tag">HTML5</span>,
             <span className="tech-tag">CSS3</span>,
             <span className="tech-tag">JavaScript</span>,
+
             <span className="tech-tag">Redux</span>,
             <span className="tech-tag">Node</span>,
-            <span className="tech-tag">React</span>,
             <br/>
+            <span className="tech-tag">React</span>,
             <span className="tech-tag">TypeScript</span>,
             <span className="tech-tag">PostgreSQL</span>,
-            <br/>
             <span className="tech-tag">Bootstrap</span>,
             <span className="tech-tag">Sass</span>,
+            <br/>
             <span className="tech-tag">Git</span>,
             <span className="tech-tag">Firebase</span>,
             <span className="tech-tag">Express</span>,
+           
             <span className="tech-tag">React Native</span>,
             <span className="tech-tag">MongoDB</span>
           </p>
