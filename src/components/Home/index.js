@@ -38,7 +38,7 @@ const Home = () => {
     <>
       <div className="container home-page">
         <div className="text-zone">
-          <h1>
+          <h1 >
             <span className={letterClass}>Hola</span>
             <span className={`${letterClass} _12`}>,</span>
             
@@ -46,6 +46,7 @@ const Home = () => {
             <span className={`${letterClass} _14`}>oy</span>
              <br />
             <AnimatedLetters
+           
               letterClass={letterClass}
               strArray={nameArray}
               idx={15}
@@ -55,6 +56,7 @@ const Home = () => {
               letterClass={letterClass}
               strArray={jobArray}
               idx={22}
+             
             />
           </h1>
           <h2>Fullstack Web Developer</h2>

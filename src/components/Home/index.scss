@@ -144,6 +144,7 @@
   }
 }
 
+
 @media only screen and (max-width:550px){
   .home-page {
     .text-zone {
@@ -153,15 +154,15 @@
       top: 50%;
       width:50%;
      h1{
-         font-size: 28px;
-        width: 120%;
+         font-size: 25px;
+        width: 130%;
         line-height: 35px;
         font-family: Helvetica Neue;
      }
     }
 }
   .imagen-container{
-    top:5px;
+    top:-10px;
     width: 40%;
     height: 50%;
     left:60%;
