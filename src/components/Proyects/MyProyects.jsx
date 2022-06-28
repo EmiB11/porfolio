@@ -86,7 +86,7 @@ Tecnología: React, Redux, HTML, CSS, Bootstrap, Node JS, Express, PostgreSQL, S
 •  Url del proyecto {" "}
             <a
               target="_blank"
-              href="https://mobi-app.netlify.app/"
+              href="https://mobiatr.vercel.app/"
               ><FontAwesomeIcon icon={faCloudArrowUp} /></a>
         
  </p>
